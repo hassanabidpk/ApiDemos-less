@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\NEW_DATE_HASSAN\HASSAN\GitHub\ApiDemos\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\NEW_DATE_HASSAN\HASSAN\GitHub\ApiDemos\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-ac310360b17061fb924caa594906f323ad847568.jar" />
+    </item>
+    <item
+        jar="C:\NEW_DATE_HASSAN\ANDROID_SDK\adt-bundle-windows\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\NEW_DATE_HASSAN\HASSAN\GitHub\ApiDemos\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-2588bec19d27a658b2d0d3f238f6b8b2282c2615.jar" />
+    </item>
+    <item
+        jar="C:\NEW_DATE_HASSAN\HASSAN\GitHub\ApiDemos\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\NEW_DATE_HASSAN\HASSAN\GitHub\ApiDemos\app\build\intermediates\pre-dexed\debug\classes-998713bf8a8a315d6a61fab0330e77824f83a0b2.jar" />
+    </item>
+
+</items>

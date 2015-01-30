@@ -1,0 +1,4 @@
+C:\NEW_DATE_HASSAN\HASSAN\GitHub\ApiDemos\app\build\intermediates\classes\debug
+C:\NEW_DATE_HASSAN\HASSAN\GitHub\ApiDemos\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-2588bec19d27a658b2d0d3f238f6b8b2282c2615.jar
+C:\NEW_DATE_HASSAN\HASSAN\GitHub\ApiDemos\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-ac310360b17061fb924caa594906f323ad847568.jar
+C:\NEW_DATE_HASSAN\HASSAN\GitHub\ApiDemos\app\build\intermediates\pre-dexed\debug\classes-998713bf8a8a315d6a61fab0330e77824f83a0b2.jar
